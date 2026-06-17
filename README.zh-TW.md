@@ -47,7 +47,7 @@
 ### 一鍵安裝
 
 ```bash
-git clone https://github.com/seandavid/gb10.git
+git clone https://github.com/sean70653/gb10.git
 cd gb10
 ./setup.sh
 ```
