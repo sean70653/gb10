@@ -47,7 +47,7 @@ Verwandeln Sie Ihren NVIDIA GB10 (DGX Spark) mit einem einzigen Befehl in einen 
 ### Ein-Befehl-Setup
 
 ```bash
-git clone https://github.com/seandavid/gb10.git
+git clone https://github.com/sean70653/gb10.git
 cd gb10
 ./setup.sh
 ```
