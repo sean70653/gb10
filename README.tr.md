@@ -47,7 +47,7 @@ NVIDIA GB10 (DGX Spark) cihazınızı tek bir komutla kişisel bir yapay zeka as
 ### Tek Komutla Kurulum
 
 ```bash
-git clone https://github.com/seandavid/gb10.git
+git clone https://github.com/sean70653/gb10.git
 cd gb10
 ./setup.sh
 ```
