@@ -47,7 +47,7 @@ Convierte tu NVIDIA GB10 (DGX Spark) en un asistente de IA personal con un solo 
 ### Configuración con un solo comando
 
 ```bash
-git clone https://github.com/seandavid/gb10.git
+git clone https://github.com/sean70653/gb10.git
 cd gb10
 ./setup.sh
 ```
